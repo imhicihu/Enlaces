@@ -4,3 +4,32 @@
 
 # Enlaces
  Repositorio dedicado a generar nuestro árbol de enlaces propio
+
+
+
+# RATIONALE #
+
+* This repository it just for the sake of generate our own link tree. Minimalistic from the beginning to the last stage.
+* This repo is a living document that will grow and adapt over time.
+
+### What is this repository for? ###
+
+* Quick summary
+    - Minimalist link tree that will grow over time
+     
+### Who do I talk to? ###
+
+* Repo owner or admin
+    - Contact `imhicihu` at `gmail` dot `com`
+
+### Code of Conduct
+
+* Please, check our [Code of Conduct](code_of_conduct.md)
+
+### Legal ###
+
+* All trademarks are the property of their respective owners.
+
+### License ###
+
+* The content of this project itself is licensed under the ![MIT Licence](images/MIT-license-green.png)
