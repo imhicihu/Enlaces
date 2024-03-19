@@ -3,11 +3,10 @@
 ![issues-open](images/issues_open.png)
 
 # Enlaces
- Repositorio dedicado a generar nuestro árbol de enlaces propio
+Dedicated repository to generate our own [linktree](https://en.wikipedia.org/wiki/Linktree)
 
 
-
-# RATIONALE #
+## RATIONALE
 
 * This repository it just for the sake of generate our own link tree. Minimalistic from the beginning to the last stage.
 * This repo is a living document that will grow and adapt over time.
