@@ -8,8 +8,7 @@ Dedicated repository to generate our own [linktree](https://en.wikipedia.org/wik
 
 ## RATIONALE
 
-* This repository it just for the sake of generate our own link tree. Minimalistic from the beginning to the last stage.
-* This repo is a living document that will grow and adapt over time.
+* This repository it just for the sake of generate our own link tree. Minimalistic from the beginning to the last stage
 
 ### What is this repository for? ###
 
