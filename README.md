@@ -8,17 +8,17 @@
 ![internaluse-green](images/internal_use_stable.png)
 
 # Enlaces
-Dedicated repository to generate our own [linktree](https://en.wikipedia.org/wiki/Linktree)
+[Website that show our inner developments](https://enlaces.surge.sh/) that involve several projects coined inside the institution
 
 
 ## RATIONALE
 
-* This repository it just for the sake of generate our own link tree. Minimalistic from the beginning to the last stage
+* This repository it just for the sake of generate our own [linktree](https://en.wikipedia.org/wiki/Linktree) 
 
 ### What is this repository for? ###
 
 * Quick summary
-    - Minimalist link tree that will grow over time
+    - Minimalistic from the beginning to the last stage
      
 ### Who do I talk to? ###
 
