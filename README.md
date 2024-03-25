@@ -6,7 +6,6 @@
 
 ![stability-workinprogress](images/stability_work_in_progress.png)
 ![internaluse-green](images/internal_use_stable.png)
-![issues-open](images/issues_open.png)
 
 # Enlaces
 Dedicated repository to generate our own [linktree](https://en.wikipedia.org/wiki/Linktree)
