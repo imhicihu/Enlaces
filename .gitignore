@@ -28,3 +28,6 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# Nova generated files and folders
+.nova/
