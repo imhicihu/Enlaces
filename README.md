@@ -31,7 +31,7 @@
 
 ### Legal ###
 
-* All trademarks are the property of their respective owners.
+* All trademarks are the property of their respective owners
 
 ### License ###
 
