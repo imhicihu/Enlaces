@@ -1,6 +1,6 @@
 # Ignore everything (folders and files) on root only
 /*
-!images/favicon.ico
-!images/logo-imhicihu-conicet.jpg
+!/images/favicon.ico
+!/images/logo-imhicihu-conicet.jpg
 !*.html
 !robots.txt
