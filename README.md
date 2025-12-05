@@ -8,7 +8,7 @@
 ![internaluse-green](images/internal_use_stable.png)
 
 # Enlaces
-[Website that show our inner developments](https://enlaces.surge.sh/) that involve several projects coined inside the institution
+[Website that show our inner developments](https://enlacesimhicihu.vercel.app/) that involve several projects coined inside the institution
 
 
 ## RATIONALE
