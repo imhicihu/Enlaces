@@ -11,7 +11,7 @@
 [Website that show our inner developments](https://enlacesimhicihu.vercel.app/) that involve several projects coined inside the institution
 
 
-## Rationale
+## Rationale / [Motivación](LEEME.md)
 
 * This repository it just for the sake of generate our own [linktree](https://en.wikipedia.org/wiki/Linktree) 
 
