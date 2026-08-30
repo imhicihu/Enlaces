@@ -31,3 +31,6 @@ google-services.json
 
 # Nova generated files and folders
 .nova/
+
+# Node modules
+node_modules/
